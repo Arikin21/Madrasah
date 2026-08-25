@@ -1,0 +1,6 @@
+{
+  "name": "SIAMadrasah - Sistem Administrasi Sekolah & Madrasah Terpadu",
+  "description": "Aplikasi Web Administrasi Sekolah dan Madrasah Terpadu dengan RBAC, SIS & PPDB, Manajemen Akademik, e-Rapor, Pelacak Tahfidz & Ibadah, Kepegawaian & HR, Keuangan SPP & Payment Gateway, serta Resepsionis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
